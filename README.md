@@ -30,8 +30,8 @@
 
 ### 📊 GitHub Activity
 
-![ucoder69's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ucoder69&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ucoder69&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=ucoder69&theme=tokyonight)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ucoder69&layout=compact&theme=tokyonight)
 
 ---
 
