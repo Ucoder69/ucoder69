@@ -20,6 +20,8 @@
 
 ---
 
+![Snake Animation](https://raw.githubusercontent.com/ucoder69/ucoder69/output/github-snake-dark.svg)
+
 ### 🚀 Featured Projects
 
 * 🔐 **[Naval](https://github.com/ucoder69/Naval)** — E2EE LAN chat application in Python featuring **Curve25519 ECDH** key exchange, **XChaCha20** ciphers, **mDNS autotuning** local discovery, and a 6-digit backup recovery code.
