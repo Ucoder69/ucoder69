@@ -35,10 +35,6 @@
 
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ucoder69&layout=compact&theme=tokyonight)
 
-####  Contribution Activity
-
-![ucoder69's Activity Graph](https://ghchart.rshah.org/238636/ucoder69)
-
 ####  Contribution Snake
 
 ![Snake Animation](https://raw.githubusercontent.com/ucoder69/ucoder69/output/github-snake-dark.svg)
