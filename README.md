@@ -1,3 +1,5 @@
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:238636&height=220&section=header&text=ucoder69&fontSize=60&fontColor=ffffff&animation=twinkling)
+
 # Hi, I'm ucoder69 👋
 
 🎓 **1st Year CSE Core Student @ NSEC**  
@@ -19,10 +21,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-###Contribution SVG
-
-![Snake Animation](https://raw.githubusercontent.com/ucoder69/ucoder69/output/github-snake-dark.svg)
-
 ### 🚀 Featured Projects
 
 * 🔐 **[Naval](https://github.com/ucoder69/Naval)** — E2EE LAN chat application in Python featuring **Curve25519 ECDH** key exchange, **XChaCha20** ciphers, **mDNS autotuning** local discovery, and a 6-digit backup recovery code.
@@ -36,6 +34,14 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ucoder69&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ucoder69&layout=compact&theme=tokyonight)
+
+####  Contribution Activity
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ucoder69&theme=tokyonight)
+
+####  Contribution Snake
+
+![Snake Animation](https://raw.githubusercontent.com/ucoder69/ucoder69/output/github-snake-dark.svg)
 
 ---
 
