@@ -37,7 +37,7 @@
 
 ####  Contribution Activity
 
-![Activity Graph](https://github-readme-activity-graph-fast.vercel.app/graph?username=ucoder69&theme=tokyonight)
+![ucoder69's Activity Graph](https://ghchart.rshah.org/238636/ucoder69)
 
 ####  Contribution Snake
 
